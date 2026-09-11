@@ -1,0 +1,33 @@
+SH3LLC0DE CROSS-PLATFORM — THIRD-PARTY NOTICES
+
+MUSIC
+
+“Sci-Fi 1 Loop” by AlkaKrab (Alanas Buividas).
+Used under a one-time royalty-free license permitting commercial and non-commercial game use. The track may not be redistributed or resold as-is, uploaded to streaming platforms, or remixed/sampled without permission.
+https://alkakrab04.wixsite.com/alkakrab-game-music
+
+“Underbeat” by David KBD, from the Code Injection Dark Techno Music Pack.
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://davidkbd.itch.io/code-injection-dark-techno-music-pack
+https://creativecommons.org/licenses/by/4.0/
+
+SOUND EFFECTS
+
+Interface and gameplay effects by Hove Audio, from the Free Sci-Fi UI Sound Effects Pack. Royalty-free; use in projects is permitted.
+https://hoveaudio.itch.io/free-sci-fi-ui-sound-effects-pack
+
+Mission failure and alarm sounds by Vladislav Zharkov, from Glitch Noises / User Interface, licensed CC0 1.0 Universal.
+https://vladislavzh.itch.io/glitch-noises
+
+Mission pass sound by lentikula, from Healing Spell Impacts, licensed CC0 1.0.
+https://lentikula.itch.io/healing-spell-impacts
+
+VISUALS
+
+The title network/radar compositions incorporate CC0 source elements from SVG Repo. The campaign decrypt and cash graphics use the source project’s CC0 SVG Repo assets “Cube Graphic of Squares” and “Dollar Bank Note.”
+https://www.svgrepo.com/svg/13675/network
+https://www.svgrepo.com/svg/39579/radar-system
+https://www.svgrepo.com/svg/6200/cube-graphic-of-squares
+https://www.svgrepo.com/svg/176109/dollar-bank-note
+
+The SH3LLC0DE title composition and local artwork are project-owned.

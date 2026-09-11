@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SH3LLC0DE mission-number outer frame. The center is intentionally empty. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+  <g fill="none" stroke="#000000" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter">
+    <rect x="66" y="66" width="308" height="308" rx="12"/>
+    <path d="M112 12v54 M220 12v54 M328 12v54"/>
+    <path d="M112 374v54 M220 374v54 M328 374v54"/>
+    <path d="M12 112h54 M12 220h54 M12 328h54"/>
+    <path d="M374 112h54 M374 220h54 M374 328h54"/>
+  </g>
+</svg>
